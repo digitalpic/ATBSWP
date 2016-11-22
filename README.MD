@@ -11,3 +11,4 @@
 * Writing your own
 * Global and local scopes (variables)
 * Try and Except statements
+* Lists
