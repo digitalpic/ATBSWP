@@ -1,5 +1,5 @@
 ## AUTOMATE THE BORING STUFF WITH PYTHON
-=====================================
+   =====================================
 
 #### Flow Control
 * If, Else, and Elif Statements
@@ -12,3 +12,4 @@
 * Global and local scopes (variables)
 * Try and Except statements
 * Lists
+* Methods (Functions that are called ono values)

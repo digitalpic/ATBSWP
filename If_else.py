@@ -1,6 +1,6 @@
 password = 'Swordfish'
 
 if password == 'Swordfish':
-	print('Access GRanted')
+    print('Access GRanted')
 else:
-	print('Access Denied')
+    print('Access Denied')

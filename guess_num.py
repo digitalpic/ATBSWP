@@ -1,10 +1,14 @@
 # Guess the number game!
 import random
+import time
 
-print('Hello, get ready to play - but first, what shall I call you?')
+print('Hi there...this is a number guessing game and you have six tries to guess correctly.\n')
+time.sleep(3)
+
+print('So, get ready to play - but first - what shall I call you?')
 name = input()
 
-print('Ok, ' + name + ', I am thinking of a number in between 1 and 20')
+print('Ok, ' + name + ', Hmm, I am thinking of a number in between 1 and 20')
 secretNumber = random.randint(1, 20)
 
 for guessesTaken in range(1, 7):

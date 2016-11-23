@@ -1,4 +1,4 @@
-# Input validation
+# Input validation while loop is True
 name = ''
 while True:
     print('Please type your name')
